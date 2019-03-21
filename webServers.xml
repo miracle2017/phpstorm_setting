@@ -1,0 +1,38 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d94f3436-ddee-4d83-ac23-f8b57ca6b34b" name="49服务器" url="http://117.27.138.49">
+        <fileTransfer host="117.27.138.49" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="68cc2feb-389e-4088-8751-b2b84e1ba359" name="61服务器" url="http://117.27.138.61">
+        <fileTransfer host="117.27.138.61" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="47756704-b3e0-4676-aac9-6e6fbb2b8c05" name="99服务器" url="http://117.27.138.99">
+        <fileTransfer host="117.27.138.99" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="bce21093-cae3-465f-b907-5a15db910a46" name="158服务器" url="http://47.75.190.158">
+        <fileTransfer host="47.75.190.158" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="30000" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</application>

@@ -1,0 +1,6 @@
+<keymap version="1" name="Default copy" parent="$default">
+  <action id="RunJsbtTask" />
+  <action id="ToggleFullScreen">
+    <keyboard-shortcut first-keystroke="alt f11" />
+  </action>
+</keymap>

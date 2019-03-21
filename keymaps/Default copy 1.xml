@@ -1,0 +1,23 @@
+<keymap version="1" name="Default copy 1" parent="$default">
+  <action id="CodeCompletion">
+    <keyboard-shortcut first-keystroke="ctrl comma" />
+  </action>
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="ctrl quote" />
+  </action>
+  <action id="EditorLineStart">
+    <keyboard-shortcut first-keystroke="home" />
+    <keyboard-shortcut first-keystroke="ctrl semicolon" />
+  </action>
+  <action id="EditorMatchBrace">
+    <keyboard-shortcut first-keystroke="shift ctrl m" />
+    <keyboard-shortcut first-keystroke="ctrl m" />
+  </action>
+  <action id="EditorScrollToCenter" />
+  <action id="Images.Editor.ToggleGrid" />
+  <action id="ScrollTreeToCenter" />
+  <action id="Vcs.ShowMessageHistory">
+    <keyboard-shortcut first-keystroke="ctrl e" />
+  </action>
+</keymap>

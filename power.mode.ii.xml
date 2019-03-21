@@ -1,0 +1,18 @@
+<application>
+  <component name="PowerModeII">
+    <option name="blueTo" value="255" />
+    <option name="customBamImageFolder" value="C:\Windows\system32" />
+    <option name="customFlameImageFolder" value="C:\Windows\system32" />
+    <option name="flameLife" value="1061" />
+    <option name="gravityFactor" value="11.17" />
+    <option name="heatupThreshold" value="5" />
+    <option name="isPowerIndicatorEnabled" value="false" />
+    <option name="maxFlameSize" value="14" />
+    <option name="redFrom" value="0" />
+    <option name="shakeRange" value="1" />
+    <option name="soundsFolder" value="D:\centos" />
+    <option name="sparkCount" value="30" />
+    <option name="sparkLife" value="1265" />
+    <option name="sparkVelocityFactor" value="73.74" />
+  </component>
+</application>
