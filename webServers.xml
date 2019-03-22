@@ -28,7 +28,7 @@
       <webServer id="bce21093-cae3-465f-b907-5a15db910a46" name="158服务器" url="http://47.75.190.158">
         <fileTransfer host="47.75.190.158" port="22" accessType="SFTP">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="30000" />
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="20000" />
           </advancedOptions>
           <option name="port" value="22" />
         </fileTransfer>
