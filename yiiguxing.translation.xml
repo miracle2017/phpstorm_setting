@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="待解决问题" />
+      <item value="待解决" />
       <item value="reduce" />
       <item value="break it down" />
       <item value="plugin" />
@@ -49,13 +51,11 @@
       <item value="PORTNUMBER" />
       <item value="semanage" />
       <item value="SE Linux" />
-      <item value="comprehensive" />
-      <item value="shipped" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="48" />
-        <entry key="ENGLISH" value="49" />
+        <entry key="CHINESE" value="50" />
+        <entry key="ENGLISH" value="50" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
