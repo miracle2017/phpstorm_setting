@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="安装包" />
       <item value="浏览器" />
       <item value="待解决问题" />
       <item value="待解决" />
@@ -50,12 +51,11 @@
       <item value="phrase" />
       <item value="passphrase" />
       <item value="PORTNUMBER" />
-      <item value="semanage" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="52" />
-        <entry key="ENGLISH" value="52" />
+        <entry key="CHINESE" value="54" />
+        <entry key="ENGLISH" value="54" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
