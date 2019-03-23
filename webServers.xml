@@ -20,7 +20,7 @@
       <webServer id="47756704-b3e0-4676-aac9-6e6fbb2b8c05" name="99服务器" url="http://117.27.138.99">
         <fileTransfer host="117.27.138.99" port="22" accessType="SFTP">
           <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" />
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="10000" />
           </advancedOptions>
           <option name="port" value="22" />
         </fileTransfer>
