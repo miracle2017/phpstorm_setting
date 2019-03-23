@@ -1,18 +1,19 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="index" type="PLAIN_TEXT" />
       <mapping pattern="nginx" type="PLAIN_TEXT" />
-      <mapping pattern="ssh_config" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
-      <mapping pattern="sshd_config" type="PLAIN_TEXT" />
-      <mapping pattern="description" type="PLAIN_TEXT" />
-      <mapping pattern="ACXgE4vMqVYR0QAFCVzYQ05Q8a83uwrmVdIk7cSv" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
+      <mapping pattern="index" type="PLAIN_TEXT" />
+      <mapping pattern="description" type="PLAIN_TEXT" />
+      <mapping pattern="sshd_config" type="PLAIN_TEXT" />
+      <mapping pattern="ACXgE4vMqVYR0QAFCVzYQ05Q8a83uwrmVdIk7cSv" type="PLAIN_TEXT" />
+      <mapping pattern="ssh_config" type="PLAIN_TEXT" />
       <mapping ext="crond64" type="PLAIN_TEXT" />
-      <mapping ext="lock" type="PLAIN_TEXT" />
-      <mapping ext="crond32" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="types" type="PLAIN_TEXT" />
+      <mapping ext="crond32" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
