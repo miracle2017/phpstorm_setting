@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="router" />
       <item value="reserved" />
       <item value="troubleshoot" />
       <item value="安装包" />
@@ -50,12 +51,11 @@
       <item value="账号资料" />
       <item value="foreign" />
       <item value="roaming" />
-      <item value="phrase" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="55" />
-        <entry key="ENGLISH" value="56" />
+        <entry key="CHINESE" value="59" />
+        <entry key="ENGLISH" value="60" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
