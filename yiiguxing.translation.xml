@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="resolution" />
+      <item value="Corp" />
       <item value="CONCAT" />
       <item value="router" />
       <item value="reserved" />
@@ -49,13 +51,11 @@
       <item value="好好学习天天向上" />
       <item value="profiler" />
       <item value="账号信息" />
-      <item value="账号资料" />
-      <item value="foreign" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="59" />
-        <entry key="ENGLISH" value="60" />
+        <entry key="CHINESE" value="61" />
+        <entry key="ENGLISH" value="62" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
