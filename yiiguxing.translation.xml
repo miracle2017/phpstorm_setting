@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Uptime" />
+      <item value="Synonym" />
       <item value="resolution" />
       <item value="Corp" />
       <item value="CONCAT" />
@@ -49,13 +51,11 @@
       <item value="event" />
       <item value="自律自由" />
       <item value="好好学习天天向上" />
-      <item value="profiler" />
-      <item value="账号信息" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="61" />
-        <entry key="ENGLISH" value="62" />
+        <entry key="CHINESE" value="63" />
+        <entry key="ENGLISH" value="64" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
