@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="compress" />
+      <item value="ompress" />
       <item value="resuming" />
       <item value="crit" />
       <item value="forge" />
@@ -49,13 +51,11 @@
       <item value="轻音乐" />
       <item value="单日限额" />
       <item value="已绑定" />
-      <item value="onto" />
-      <item value="偶数" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="67" />
-        <entry key="ENGLISH" value="68" />
+        <entry key="CHINESE" value="69" />
+        <entry key="ENGLISH" value="70" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="1" />
         <entry key="DUTCH" value="1" />
