@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="profile" />
       <item value="oray" />
       <item value="虚拟" />
       <item value="Disposition" />
@@ -50,12 +51,11 @@
       <item value="万能影院" />
       <item value="万能" />
       <item value="破解" />
-      <item value="影视" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="82" />
-        <entry key="ENGLISH" value="82" />
+        <entry key="ENGLISH" value="83" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
