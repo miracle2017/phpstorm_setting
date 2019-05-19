@@ -49,12 +49,12 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="c7f3dd49-eaaf-4cf9-b867-6ff1000bf0c5" name="虚拟机-手机" url="http://192.168.0.102">
-        <fileTransfer host="192.168.0.102" port="2222" accessType="SFTP">
+      <webServer id="c7f3dd49-eaaf-4cf9-b867-6ff1000bf0c5" name="虚拟机-手机" url="http://192.168.247.129">
+        <fileTransfer host="192.168.247.129" port="22" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="2222" />
+          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
     </option>
