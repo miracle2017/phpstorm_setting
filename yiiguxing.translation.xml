@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="参数" />
       <item value="mantank" />
       <item value="profile" />
       <item value="oray" />
@@ -50,12 +51,11 @@
       <item value="films" />
       <item value="万能影视" />
       <item value="万能影院" />
-      <item value="万能" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="83" />
-        <entry key="ENGLISH" value="83" />
+        <entry key="CHINESE" value="84" />
+        <entry key="ENGLISH" value="84" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
