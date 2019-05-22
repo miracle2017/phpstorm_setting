@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="fashop" type="PLAIN_TEXT" />
+      <mapping pattern="easyswoole" type="PLAIN_TEXT" />
       <mapping pattern="xtables-multi" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
