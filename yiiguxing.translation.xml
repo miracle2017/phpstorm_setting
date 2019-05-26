@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="$replacement" />
+      <item value="普通话" />
+      <item value="中文" />
+      <item value="$delimiter" />
+      <item value="$delimit" />
       <item value="portion" />
       <item value="$subject" />
       <item value="shuffle" />
@@ -46,16 +51,11 @@
       <item value="blazing" />
       <item value="abruptly" />
       <item value="unwind" />
-      <item value="unwin" />
-      <item value="pcunwind" />
-      <item value="$辅助" />
-      <item value="revoke" />
-      <item value="implemented" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="88" />
-        <entry key="ENGLISH" value="88" />
+        <entry key="CHINESE" value="91" />
+        <entry key="ENGLISH" value="92" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
