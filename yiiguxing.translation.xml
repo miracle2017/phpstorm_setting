@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="$subject" />
       <item value="shuffle" />
       <item value="flip" />
       <item value="project root" />
@@ -50,12 +51,11 @@
       <item value="revoke" />
       <item value="implemented" />
       <item value="foreach" />
-      <item value="traversal" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="86" />
-        <entry key="ENGLISH" value="87" />
+        <entry key="CHINESE" value="87" />
+        <entry key="ENGLISH" value="88" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
