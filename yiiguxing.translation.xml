@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="shuffle" />
+      <item value="flip" />
       <item value="project root" />
       <item value="参数" />
       <item value="mantank" />
@@ -49,13 +51,11 @@
       <item value="implemented" />
       <item value="foreach" />
       <item value="traversal" />
-      <item value="films" />
-      <item value="万能影视" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="84" />
-        <entry key="ENGLISH" value="85" />
+        <entry key="CHINESE" value="86" />
+        <entry key="ENGLISH" value="87" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
