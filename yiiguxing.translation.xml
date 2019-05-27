@@ -1,9 +1,13 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="consisted" />
+      <item value="consist" />
+      <item value="consisting" />
+      <item value="array splice" />
+      <item value="extracted" />
       <item value="contest" />
       <item value="splice" />
-      <item value="array splice" />
       <item value="$needle" />
       <item value="$haystack" />
       <item value="strrev" />
@@ -47,15 +51,11 @@
       <item value="router" />
       <item value="reserved" />
       <item value="troubleshoot" />
-      <item value="安装包" />
-      <item value="浏览器" />
-      <item value="待解决问题" />
-      <item value="待解决" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="98" />
-        <entry key="ENGLISH" value="99" />
+        <entry key="CHINESE" value="100" />
+        <entry key="ENGLISH" value="100" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
