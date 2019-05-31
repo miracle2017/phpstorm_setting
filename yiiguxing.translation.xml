@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="INTEGER" />
       <item value="私有" />
       <item value="week" />
       <item value="前一个" />
@@ -50,12 +51,11 @@
       <item value="crit" />
       <item value="forge" />
       <item value="mutex" />
-      <item value="Uptime" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="103" />
-        <entry key="ENGLISH" value="103" />
+        <entry key="ENGLISH" value="104" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
