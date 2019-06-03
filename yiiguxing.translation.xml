@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="stub" />
       <item value="robots" />
       <item value="issue" />
       <item value="reissue" />
@@ -50,12 +51,11 @@
       <item value="正式" />
       <item value="代付" />
       <item value="delegatepay" />
-      <item value="delegate" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="115" />
-        <entry key="ENGLISH" value="116" />
+        <entry key="CHINESE" value="116" />
+        <entry key="ENGLISH" value="117" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="2" />
         <entry key="DUTCH" value="1" />
