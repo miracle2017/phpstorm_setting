@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="subtract" />
       <item value="销毁" />
       <item value="公众号" />
       <item value="公众号信息" />
@@ -50,12 +51,11 @@
       <item value="oray" />
       <item value="虚拟" />
       <item value="Disposition" />
-      <item value="iconv" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="121" />
-        <entry key="ENGLISH" value="121" />
+        <entry key="ENGLISH" value="122" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="1" />
