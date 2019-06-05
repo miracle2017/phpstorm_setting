@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="IDENTIFICATION" />
+      <item value="eavesdropping" />
+      <item value="NASTY" />
       <item value="subtract" />
       <item value="销毁" />
       <item value="公众号" />
@@ -48,13 +51,10 @@
       <item value="参数" />
       <item value="mantank" />
       <item value="profile" />
-      <item value="oray" />
-      <item value="虚拟" />
-      <item value="Disposition" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="121" />
+        <entry key="CHINESE" value="122" />
         <entry key="ENGLISH" value="122" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
