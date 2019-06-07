@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="map" />
+      <item value="mapping" />
       <item value="pagation" />
       <item value="Propagation" />
       <item value="detach" />
@@ -49,13 +51,11 @@
       <item value="portion" />
       <item value="$subject" />
       <item value="shuffle" />
-      <item value="flip" />
-      <item value="project root" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="124" />
-        <entry key="ENGLISH" value="124" />
+        <entry key="CHINESE" value="125" />
+        <entry key="ENGLISH" value="126" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="1" />
