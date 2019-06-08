@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="meta" />
+      <item value="attachment" />
+      <item value="nowrap" />
       <item value="clip" />
       <item value="ease" />
       <item value="siblings" />
@@ -48,14 +51,11 @@
       <item value="$haystack" />
       <item value="strrev" />
       <item value="$replacement" />
-      <item value="普通话" />
-      <item value="中文" />
-      <item value="$delimiter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="129" />
-        <entry key="ENGLISH" value="130" />
+        <entry key="CHINESE" value="132" />
+        <entry key="ENGLISH" value="133" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="1" />
