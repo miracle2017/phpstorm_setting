@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="bitmask" />
+      <item value="forge" />
+      <item value="proxy" />
+      <item value="progress" />
       <item value="pool" />
       <item value="toolkit" />
       <item value="persona" />
@@ -47,15 +51,11 @@
       <item value="week" />
       <item value="前一个" />
       <item value="星期一" />
-      <item value="predefined" />
-      <item value="$num" />
-      <item value="retrieve" />
-      <item value="consisted" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="141" />
-        <entry key="ENGLISH" value="142" />
+        <entry key="CHINESE" value="145" />
+        <entry key="ENGLISH" value="145" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="1" />
