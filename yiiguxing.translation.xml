@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="toolkit" />
+      <item value="persona" />
       <item value="privileges" />
       <item value="My ISAM" />
       <item value="nginx" />
@@ -49,13 +51,11 @@
       <item value="retrieve" />
       <item value="consisted" />
       <item value="consist" />
-      <item value="consisting" />
-      <item value="array splice" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="139" />
-        <entry key="ENGLISH" value="140" />
+        <entry key="CHINESE" value="140" />
+        <entry key="ENGLISH" value="141" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="1" />
@@ -64,7 +64,7 @@
         <entry key="PORTUGUESE" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="WELSH" value="1" />
-        <entry key="SPANISH" value="1" />
+        <entry key="SPANISH" value="2" />
         <entry key="ITALIAN" value="1" />
       </map>
     </option>
