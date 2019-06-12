@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Percona" />
       <item value="EVAL" />
       <item value="bitmask" />
       <item value="forge" />
@@ -50,11 +51,10 @@
       <item value="INTEGER" />
       <item value="私有" />
       <item value="week" />
-      <item value="前一个" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="145" />
+        <entry key="CHINESE" value="146" />
         <entry key="ENGLISH" value="146" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
@@ -66,6 +66,7 @@
         <entry key="WELSH" value="1" />
         <entry key="SPANISH" value="2" />
         <entry key="ITALIAN" value="1" />
+        <entry key="INDONESIAN" value="1" />
       </map>
     </option>
   </component>
