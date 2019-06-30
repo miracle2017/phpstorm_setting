@@ -21,6 +21,7 @@
       <mapping ext="types" type="PLAIN_TEXT" />
       <mapping ext="slow" type="PLAIN_TEXT" />
       <mapping ext="crond32" type="PLAIN_TEXT" />
+      <mapping ext="000003" type="SQL" />
     </extensionMap>
   </component>
 </application>
