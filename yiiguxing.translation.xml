@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="braindump" />
+      <item value="VERBOSE" />
       <item value="glob" />
       <item value="LTS" />
       <item value="response" />
@@ -49,8 +51,6 @@
       <item value="公众号" />
       <item value="公众号信息" />
       <item value="Entr" />
-      <item value="stub" />
-      <item value="robots" />
     </histories>
     <option name="languageScores">
       <map>
