@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="LTS" />
+      <item value="response" />
+      <item value="对象的支持" />
+      <item value="改进模型类型强制转换写入对" />
       <item value="relay" />
       <item value="性别" />
       <item value="monyog  " />
@@ -47,10 +51,6 @@
       <item value="stub" />
       <item value="robots" />
       <item value="issue" />
-      <item value="reissue" />
-      <item value="活动" />
-      <item value="render" />
-      <item value="rendered" />
     </histories>
     <option name="languageScores">
       <map>
