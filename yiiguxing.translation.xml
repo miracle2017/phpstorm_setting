@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="all sorts of" />
       <item value="braindump" />
       <item value="VERBOSE" />
       <item value="glob" />
@@ -50,7 +51,6 @@
       <item value="销毁" />
       <item value="公众号" />
       <item value="公众号信息" />
-      <item value="Entr" />
     </histories>
     <option name="languageScores">
       <map>
