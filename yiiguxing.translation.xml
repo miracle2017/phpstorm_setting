@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="index" />
+      <item value="function" />
       <item value="all sorts of" />
       <item value="braindump" />
       <item value="VERBOSE" />
@@ -49,8 +51,6 @@
       <item value="NASTY" />
       <item value="subtract" />
       <item value="销毁" />
-      <item value="公众号" />
-      <item value="公众号信息" />
     </histories>
     <option name="languageScores">
       <map>
@@ -71,6 +71,11 @@
     </option>
   </component>
   <component name="Settings">
+    <option name="googleTranslateSettings">
+      <google-translate>
+        <option name="useTranslateGoogleCom" value="true" />
+      </google-translate>
+    </option>
     <option name="ignoreRegExp" value="" />
   </component>
 </application>
