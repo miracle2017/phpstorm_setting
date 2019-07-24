@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Miscellaneous" />
+      <item value="Jul" />
       <item value="backend" />
       <item value="replica Set" />
       <item value="Beware" />
@@ -49,13 +51,11 @@
       <item value="nowrap" />
       <item value="clip" />
       <item value="ease" />
-      <item value="siblings" />
-      <item value="Toggle" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="157" />
-        <entry key="ENGLISH" value="158" />
+        <entry key="CHINESE" value="159" />
+        <entry key="ENGLISH" value="160" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="3" />
         <entry key="DUTCH" value="1" />
