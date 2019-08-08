@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Dispatch" />
+      <item value="IDENTIFIER" />
+      <item value="bundle" />
       <item value="forcibly" />
       <item value="sqlite" />
       <item value="underlying" />
@@ -48,16 +51,13 @@
       <item value="My ISAM" />
       <item value="myisam" />
       <item value="repository" />
-      <item value="slashes" />
-      <item value="nth" />
-      <item value="meta" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="163" />
-        <entry key="ENGLISH" value="164" />
+        <entry key="CHINESE" value="164" />
+        <entry key="ENGLISH" value="165" />
         <entry key="DANISH" value="1" />
-        <entry key="FRENCH" value="3" />
+        <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
         <entry key="CROATIAN" value="1" />
         <entry key="MALAY" value="1" />
