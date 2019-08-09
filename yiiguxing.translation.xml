@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Realm" />
       <item value="field" />
       <item value="fiels" />
       <item value="Dispatch" />
@@ -50,12 +51,11 @@
       <item value="toolkit" />
       <item value="persona" />
       <item value="privileges" />
-      <item value="My ISAM" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="165" />
-        <entry key="ENGLISH" value="166" />
+        <entry key="CHINESE" value="166" />
+        <entry key="ENGLISH" value="167" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
