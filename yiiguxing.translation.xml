@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="literal" />
+      <item value="implicit" />
+      <item value="ob implicit flush" />
       <item value="Recipients" />
       <item value="encryption" />
       <item value="backup" />
@@ -48,14 +51,11 @@
       <item value="EVAL" />
       <item value="bitmask" />
       <item value="forge" />
-      <item value="proxy" />
-      <item value="progress" />
-      <item value="pool" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="169" />
-        <entry key="ENGLISH" value="170" />
+        <entry key="CHINESE" value="172" />
+        <entry key="ENGLISH" value="173" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
