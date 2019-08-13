@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="fashop" type="PLAIN_TEXT" />
       <mapping pattern="easyswoole" type="PLAIN_TEXT" />
-      <mapping pattern="think" type="PLAIN_TEXT" />
       <mapping pattern="xtables-multi" type="PLAIN_TEXT" />
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="index" type="PLAIN_TEXT" />
@@ -14,15 +13,17 @@
       <mapping pattern="scgi_params" type="PLAIN_TEXT" />
       <mapping pattern="nginx" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="think" type="PLAIN_TEXT" />
       <mapping pattern="ssh_config" type="PLAIN_TEXT" />
-      <mapping ext="crond64" type="PLAIN_TEXT" />
+      <mapping ext="slow" type="PLAIN_TEXT" />
       <mapping ext="default" type="PLAIN_TEXT" />
+      <mapping ext="crond64" type="PLAIN_TEXT" />
+      <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="crond32" type="PLAIN_TEXT" />
+      <mapping ext="types" type="PLAIN_TEXT" />
+      <mapping ext="rdb" type="PLAIN_TEXT" />
       <mapping ext="bin" type="PLAIN_TEXT" />
       <mapping ext="pdb" type="PLAIN_TEXT" />
-      <mapping ext="lock" type="PLAIN_TEXT" />
-      <mapping ext="types" type="PLAIN_TEXT" />
-      <mapping ext="slow" type="PLAIN_TEXT" />
-      <mapping ext="crond32" type="PLAIN_TEXT" />
       <mapping ext="000003" type="SQL" />
     </extensionMap>
   </component>
