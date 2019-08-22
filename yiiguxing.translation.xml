@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="WARRANTY" />
       <item value="priority" />
       <item value="promotion" />
       <item value="Sentinel" />
@@ -50,12 +51,11 @@
       <item value="改进模型类型强制转换写入对" />
       <item value="relay" />
       <item value="性别" />
-      <item value="monyog  " />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="180" />
-        <entry key="ENGLISH" value="181" />
+        <entry key="CHINESE" value="181" />
+        <entry key="ENGLISH" value="182" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
