@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dist" />
       <item value="produce" />
       <item value="Singleton" />
       <item value="canonicalized" />
@@ -50,12 +51,11 @@
       <item value="all sorts of" />
       <item value="braindump" />
       <item value="VERBOSE" />
-      <item value="glob" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="184" />
-        <entry key="ENGLISH" value="185" />
+        <entry key="CHINESE" value="185" />
+        <entry key="ENGLISH" value="186" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
