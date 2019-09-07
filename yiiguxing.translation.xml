@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="nesting" />
       <item value="Facade" />
       <item value="currency" />
       <item value="comprising" />
@@ -50,12 +51,11 @@
       <item value="Think PHP 5" />
       <item value="css" />
       <item value="worldpress" />
-      <item value="mysql优化" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="187" />
-        <entry key="ENGLISH" value="188" />
+        <entry key="CHINESE" value="188" />
+        <entry key="ENGLISH" value="189" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
