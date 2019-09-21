@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Upper" />
+      <item value="$support" />
+      <item value="$supported" />
       <item value="$basename" />
       <item value="dirname" />
       <item value="分离" />
@@ -48,14 +51,11 @@
       <item value="backend" />
       <item value="replica Set" />
       <item value="Beware" />
-      <item value="mongodb" />
-      <item value="Testsuite" />
-      <item value="nginx" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="193" />
-        <entry key="ENGLISH" value="194" />
+        <entry key="CHINESE" value="196" />
+        <entry key="ENGLISH" value="197" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
