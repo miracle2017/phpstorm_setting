@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="$basename" />
+      <item value="dirname" />
       <item value="分离" />
       <item value="filename" />
       <item value="produce" />
@@ -49,13 +51,11 @@
       <item value="mongodb" />
       <item value="Testsuite" />
       <item value="nginx" />
-      <item value="install" />
-      <item value="function" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="192" />
-        <entry key="ENGLISH" value="192" />
+        <entry key="CHINESE" value="193" />
+        <entry key="ENGLISH" value="194" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
