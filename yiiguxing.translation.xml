@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="$emit" />
       <item value="enctype" />
       <item value="frozen Money" />
       <item value="state" />
@@ -50,12 +51,11 @@
       <item value="underlying" />
       <item value="rose" />
       <item value="Miscellaneous" />
-      <item value="Jul" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="199" />
-        <entry key="ENGLISH" value="200" />
+        <entry key="CHINESE" value="200" />
+        <entry key="ENGLISH" value="201" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
