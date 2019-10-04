@@ -65,6 +65,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="faf9c85b-97b8-47fa-9b9f-0b0694824329" name="112服务器" url="http://47.244.110.112">
+        <fileTransfer host="47.244.110.112" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
