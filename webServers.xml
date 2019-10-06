@@ -73,6 +73,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="898184b0-d86b-4231-a86f-c3ffc270e31a" name="本地虚拟机" url="http://192.168.41.128">
+        <fileTransfer host="192.168.41.128" port="22" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
