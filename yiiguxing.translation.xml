@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="directory" />
       <item value="interactive" />
       <item value="A non well formed numeric value encountered" />
       <item value="seconds" />
@@ -50,12 +51,11 @@
       <item value="WARRANTY" />
       <item value="priority" />
       <item value="promotion" />
-      <item value="Sentinel" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="218" />
-        <entry key="ENGLISH" value="219" />
+        <entry key="CHINESE" value="219" />
+        <entry key="ENGLISH" value="220" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
