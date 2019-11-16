@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="customize-path" />
+      <item value="自定义" />
+      <item value="customer-path" />
+      <item value="path" />
       <item value="bash PROFILE" />
       <item value="bash PROFILE环境变量配置文件仅对相应的用户有效" />
       <item value="希望他对别人有帮助" />
@@ -47,15 +51,11 @@
       <item value="nesting" />
       <item value="Facade" />
       <item value="currency" />
-      <item value="comprising" />
-      <item value="nested" />
-      <item value="dist" />
-      <item value="Singleton" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="226" />
-        <entry key="ENGLISH" value="227" />
+        <entry key="CHINESE" value="229" />
+        <entry key="ENGLISH" value="230" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
