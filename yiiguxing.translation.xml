@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="server" />
+      <item value="service" />
       <item value="postinstall" />
       <item value="customize-path" />
       <item value="自定义" />
@@ -49,13 +51,11 @@
       <item value="filename" />
       <item value="produce" />
       <item value="ldap" />
-      <item value="nesting" />
-      <item value="Facade" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="230" />
-        <entry key="ENGLISH" value="231" />
+        <entry key="CHINESE" value="232" />
+        <entry key="ENGLISH" value="233" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
