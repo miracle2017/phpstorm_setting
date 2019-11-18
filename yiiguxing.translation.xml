@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="invert" />
+      <item value="dependence" />
+      <item value="安装依赖" />
+      <item value="depend" />
+      <item value="依赖" />
       <item value="incite" />
       <item value="word" />
       <item value="infinite" />
@@ -46,16 +51,11 @@
       <item value="mcrypt" />
       <item value="Retrieve" />
       <item value="$emit" />
-      <item value="enctype" />
-      <item value="frozen Money" />
-      <item value="state" />
-      <item value="Upper" />
-      <item value="$support" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="239" />
-        <entry key="ENGLISH" value="240" />
+        <entry key="CHINESE" value="243" />
+        <entry key="ENGLISH" value="244" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
