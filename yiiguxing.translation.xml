@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="infinite" />
+      <item value="无限大" />
+      <item value="无限" />
+      <item value="猜" />
       <item value="suffix" />
       <item value="自定义" />
       <item value="server" />
@@ -47,15 +51,11 @@
       <item value="$support" />
       <item value="$supported" />
       <item value="$basename" />
-      <item value="dirname" />
-      <item value="分离" />
-      <item value="filename" />
-      <item value="produce" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="233" />
-        <entry key="ENGLISH" value="234" />
+        <entry key="CHINESE" value="236" />
+        <entry key="ENGLISH" value="237" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
