@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="word" />
       <item value="infinite" />
       <item value="无限大" />
       <item value="无限" />
@@ -50,12 +51,11 @@
       <item value="Upper" />
       <item value="$support" />
       <item value="$supported" />
-      <item value="$basename" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="236" />
-        <entry key="ENGLISH" value="237" />
+        <entry key="CHINESE" value="238" />
+        <entry key="ENGLISH" value="239" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
