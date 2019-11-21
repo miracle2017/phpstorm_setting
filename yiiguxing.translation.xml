@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="更方便地" />
+      <item value="更方便" />
+      <item value="方便" />
+      <item value="directory" />
+      <item value="目录" />
       <item value="环境变量" />
       <item value="nginx install completed" />
       <item value="dependence" />
@@ -32,7 +37,6 @@
       <item value="pause" />
       <item value="有意思" />
       <item value="工作目录" />
-      <item value="directory" />
       <item value="interactive" />
       <item value="A non well formed numeric value encountered" />
       <item value="seconds" />
@@ -47,15 +51,11 @@
       <item value="NAME" />
       <item value="Retrievals" />
       <item value="Trailing" />
-      <item value="Lettercase" />
-      <item value="collation" />
-      <item value="两个collation" />
-      <item value="变量" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="250" />
-        <entry key="ENGLISH" value="250" />
+        <entry key="CHINESE" value="255" />
+        <entry key="ENGLISH" value="255" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
