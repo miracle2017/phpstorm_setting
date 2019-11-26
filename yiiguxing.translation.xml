@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="drop" />
       <item value="plugins" />
       <item value="general log" />
       <item value="flush-logs" />
@@ -50,12 +51,11 @@
       <item value="seconds" />
       <item value="release" />
       <item value="释放" />
-      <item value="在修复表时服务器crashing" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="261" />
-        <entry key="ENGLISH" value="262" />
+        <entry key="CHINESE" value="262" />
+        <entry key="ENGLISH" value="263" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
