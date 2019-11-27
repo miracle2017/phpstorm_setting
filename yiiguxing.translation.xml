@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Auditing" />
+      <item value="Account Activity Auditing" />
       <item value="MAX QUERIES PER HOUR" />
       <item value="identified" />
       <item value="drop" />
@@ -49,13 +51,11 @@
       <item value="有意思" />
       <item value="工作目录" />
       <item value="interactive" />
-      <item value="A non well formed numeric value encountered" />
-      <item value="seconds" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="264" />
-        <entry key="ENGLISH" value="265" />
+        <entry key="CHINESE" value="266" />
+        <entry key="ENGLISH" value="267" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
