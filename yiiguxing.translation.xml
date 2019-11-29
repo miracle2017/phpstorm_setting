@@ -1,6 +1,11 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="键入composer help获取更多信息" />
+      <item value="get more info by typing composer help command" />
+      <item value="get more info by typing composer help" />
+      <item value="get more info type composer help command" />
+      <item value="get more info type composer help" />
       <item value="html局部" />
       <item value="Creating SSL Certificates and Keys Using openssl" />
       <item value="Auditing" />
@@ -46,16 +51,11 @@
       <item value="customer-path" />
       <item value="path" />
       <item value="bash PROFILE" />
-      <item value="bash PROFILE环境变量配置文件仅对相应的用户有效" />
-      <item value="希望他对别人有帮助" />
-      <item value="paused" />
-      <item value="pause" />
-      <item value="有意思" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="268" />
-        <entry key="ENGLISH" value="268" />
+        <entry key="CHINESE" value="272" />
+        <entry key="ENGLISH" value="272" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
