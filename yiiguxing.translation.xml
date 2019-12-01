@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="outfit" />
       <item value="So Secure Much Wow" />
       <item value="composer一键安装" />
       <item value="网络不好" />
@@ -50,12 +51,11 @@
       <item value="自定义" />
       <item value="server" />
       <item value="service" />
-      <item value="postinstall" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="275" />
-        <entry key="ENGLISH" value="276" />
+        <entry key="CHINESE" value="276" />
+        <entry key="ENGLISH" value="277" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
