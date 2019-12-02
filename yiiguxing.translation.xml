@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Delimited-Text Format" />
       <item value="Transit" />
       <item value="中转" />
       <item value="中转站" />
@@ -50,12 +51,11 @@
       <item value="无限大" />
       <item value="无限" />
       <item value="猜" />
-      <item value="suffix" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="278" />
-        <entry key="ENGLISH" value="279" />
+        <entry key="CHINESE" value="279" />
+        <entry key="ENGLISH" value="280" />
         <entry key="DANISH" value="1" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
