@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="produce" />
+      <item value="[optional] flags can be the following flag: PREG_OFFSET_CAPTURE If this flag is passed, for every occurring match the appendant string offset will also be returned. Note that this changes the value of matches into an array where every element is an array consisting of the matched string at offset 0 and its string offset into subject at offset 1." />
+      <item value="parenthesized subpattern, and so on." />
       <item value="_INVERT" />
       <item value="array splice" />
       <item value="Splice" />
@@ -48,9 +51,6 @@
       <item value="依赖安装" />
       <item value="invert" />
       <item value="depend" />
-      <item value="依赖" />
-      <item value="incite" />
-      <item value="word" />
     </histories>
     <option name="languageScores">
       <map>
