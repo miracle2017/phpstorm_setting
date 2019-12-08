@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="byte" />
       <item value="explain" />
       <item value="一个表的基于primary" />
       <item value="META" />
@@ -50,12 +51,11 @@
       <item value="generate" />
       <item value="生成" />
       <item value="更方便地" />
-      <item value="更方便" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="291" />
-        <entry key="ENGLISH" value="292" />
+        <entry key="CHINESE" value="292" />
+        <entry key="ENGLISH" value="293" />
         <entry key="ICELANDIC" value="1" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="1" />
