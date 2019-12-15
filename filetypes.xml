@@ -23,6 +23,7 @@
       <mapping ext="default" type="PLAIN_TEXT" />
       <mapping ext="crond64" type="PLAIN_TEXT" />
       <mapping ext="lock" type="PLAIN_TEXT" />
+      <mapping ext="html___jb_old___" type="PLAIN_TEXT" />
       <mapping ext="crond32" type="PLAIN_TEXT" />
       <mapping ext="types" type="PLAIN_TEXT" />
       <mapping ext="example" type="PLAIN_TEXT" />
