@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="翘舌" />
       <item value="REVISION" />
       <item value="prerevision" />
       <item value="revision" />
@@ -50,7 +51,6 @@
       <item value="get more info type composer help" />
       <item value="html局部" />
       <item value="Creating SSL Certificates and Keys Using openssl" />
-      <item value="Auditing" />
     </histories>
     <option name="languageScores">
       <map>
@@ -65,6 +65,7 @@
         <entry key="LUXEMBOURGISH" value="1" />
         <entry key="MALAY" value="1" />
         <entry key="PORTUGUESE" value="1" />
+        <entry key="JAPANESE" value="1" />
         <entry key="TURKISH" value="1" />
         <entry key="WELSH" value="1" />
         <entry key="SPANISH" value="2" />
