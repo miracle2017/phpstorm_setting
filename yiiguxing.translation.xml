@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ALTER" />
+      <item value="alter" />
+      <item value="以便使用alter" />
       <item value="numeric" />
       <item value="DECIMAL数据类型也称为numeric" />
       <item value="翘舌" />
@@ -48,17 +51,15 @@
       <item value="网络差" />
       <item value="键入composer help获取更多信息" />
       <item value="get more info by typing composer help command" />
-      <item value="get more info by typing composer help" />
-      <item value="get more info type composer help command" />
-      <item value="get more info type composer help" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="303" />
-        <entry key="ENGLISH" value="304" />
+        <entry key="CHINESE" value="304" />
+        <entry key="ENGLISH" value="305" />
         <entry key="ICELANDIC" value="1" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="1" />
+        <entry key="GERMAN" value="2" />
         <entry key="FRENCH" value="4" />
         <entry key="DUTCH" value="1" />
         <entry key="CROATIAN" value="1" />
