@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="text变为blob" />
       <item value="ALTER" />
       <item value="alter" />
       <item value="以便使用alter" />
@@ -50,7 +51,6 @@
       <item value="网络不好" />
       <item value="网络差" />
       <item value="键入composer help获取更多信息" />
-      <item value="get more info by typing composer help command" />
     </histories>
     <option name="languageScores">
       <map>
