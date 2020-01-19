@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="风" />
       <item value="alias" />
       <item value="process" />
       <item value="procedure" />
@@ -50,12 +51,11 @@
       <item value="中转站" />
       <item value="outfit" />
       <item value="So Secure Much Wow" />
-      <item value="composer一键安装" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="307" />
-        <entry key="ENGLISH" value="307" />
+        <entry key="CHINESE" value="308" />
+        <entry key="ENGLISH" value="308" />
         <entry key="ICELANDIC" value="1" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="1" />
