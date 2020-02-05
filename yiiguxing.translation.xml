@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dictionary" />
       <item value="monospace" />
       <item value="cache" />
       <item value="necessary" />
@@ -50,12 +51,11 @@
       <item value="_INVERT" />
       <item value="array splice" />
       <item value="Splice" />
-      <item value="草稿" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="312" />
-        <entry key="ENGLISH" value="312" />
+        <entry key="ENGLISH" value="313" />
         <entry key="ICELANDIC" value="1" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="1" />
