@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="complain" />
       <item value="darwin" />
       <item value="prevents the check from scanning the rows to check for incorrect links" />
       <item value="fix almost anything except unique keys that are not unique" />
@@ -50,12 +51,11 @@
       <item value="脚趾头" />
       <item value="失败" />
       <item value="substr" />
-      <item value="u" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="318" />
-        <entry key="ENGLISH" value="319" />
+        <entry key="CHINESE" value="319" />
+        <entry key="ENGLISH" value="320" />
         <entry key="ICELANDIC" value="1" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="1" />
