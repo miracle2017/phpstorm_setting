@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="controls" />
+      <item value="controller" />
+      <item value="console" />
+      <item value="控制台" />
       <item value="qualified" />
       <item value="complain" />
       <item value="darwin" />
@@ -47,15 +51,11 @@
       <item value="constants" />
       <item value="enumerated" />
       <item value="fress" />
-      <item value="mysqli f" />
-      <item value="声调" />
-      <item value="脚趾头" />
-      <item value="失败" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="320" />
-        <entry key="ENGLISH" value="320" />
+        <entry key="CHINESE" value="324" />
+        <entry key="ENGLISH" value="325" />
         <entry key="ICELANDIC" value="1" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="1" />
