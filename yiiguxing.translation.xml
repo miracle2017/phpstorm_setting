@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="prevents the check from scanning the rows to check for incorrect links" />
       <item value="blink" />
       <item value="Expiration" />
       <item value="有效期" />
@@ -11,7 +12,6 @@
       <item value="qualified" />
       <item value="complain" />
       <item value="darwin" />
-      <item value="prevents the check from scanning the rows to check for incorrect links" />
       <item value="fix almost anything except unique keys that are not unique" />
       <item value="fix" />
       <item value="rollback segment" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="326" />
-        <entry key="ENGLISH" value="327" />
+        <entry key="CHINESE" value="327" />
+        <entry key="ENGLISH" value="328" />
         <entry key="ICELANDIC" value="1" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="1" />
