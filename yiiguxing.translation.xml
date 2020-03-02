@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="blink" />
       <item value="Expiration" />
       <item value="有效期" />
       <item value="controls" />
@@ -50,12 +51,11 @@
       <item value="explain" />
       <item value="一个表的基于primary" />
       <item value="META" />
-      <item value="constants" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="325" />
-        <entry key="ENGLISH" value="326" />
+        <entry key="CHINESE" value="326" />
+        <entry key="ENGLISH" value="327" />
         <entry key="ICELANDIC" value="1" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="1" />
