@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ANALYZE" />
       <item value="prune" />
       <item value="prevents the check from scanning the rows to check for incorrect links" />
       <item value="blink" />
@@ -50,12 +51,11 @@
       <item value="可以使用explain" />
       <item value="byte" />
       <item value="explain" />
-      <item value="一个表的基于primary" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="328" />
-        <entry key="ENGLISH" value="329" />
+        <entry key="CHINESE" value="330" />
+        <entry key="ENGLISH" value="331" />
         <entry key="ICELANDIC" value="1" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="1" />
