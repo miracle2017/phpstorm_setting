@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="object" />
+      <item value="blob" />
       <item value="Partitioning" />
       <item value="column" />
       <item value="plugin" />
@@ -49,13 +51,11 @@
       <item value="procedure" />
       <item value="text变为blob" />
       <item value="ALTER" />
-      <item value="alter" />
-      <item value="以便使用alter" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="349" />
-        <entry key="ENGLISH" value="350" />
+        <entry key="CHINESE" value="351" />
+        <entry key="ENGLISH" value="352" />
         <entry key="ICELANDIC" value="1" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="1" />
