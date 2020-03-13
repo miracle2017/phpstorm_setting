@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Partitioning" />
       <item value="column" />
       <item value="plugin" />
       <item value="Statistics" />
@@ -50,12 +51,11 @@
       <item value="ALTER" />
       <item value="alter" />
       <item value="以便使用alter" />
-      <item value="numeric" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="348" />
-        <entry key="ENGLISH" value="349" />
+        <entry key="CHINESE" value="349" />
+        <entry key="ENGLISH" value="350" />
         <entry key="ICELANDIC" value="1" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="1" />
