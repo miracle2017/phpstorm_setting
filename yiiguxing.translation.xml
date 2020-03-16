@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="OPTIMIZE" />
       <item value="equationlabel" />
       <item value="bundled" />
       <item value="stroke" />
@@ -50,12 +51,11 @@
       <item value="cache" />
       <item value="necessary" />
       <item value="撤销日志记录包含了重建更新前行内容所有需要的信息necessary" />
-      <item value="undo log record" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="355" />
-        <entry key="ENGLISH" value="355" />
+        <entry key="ENGLISH" value="356" />
         <entry key="ICELANDIC" value="1" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="1" />
