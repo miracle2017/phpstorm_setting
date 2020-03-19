@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="暗号" />
       <item value="alter" />
       <item value="Least Recently Used" />
       <item value="Least" />
@@ -50,12 +51,11 @@
       <item value="darwin" />
       <item value="fix almost anything except unique keys that are not unique" />
       <item value="fix" />
-      <item value="rollback segment" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="361" />
-        <entry key="ENGLISH" value="361" />
+        <entry key="CHINESE" value="362" />
+        <entry key="ENGLISH" value="362" />
         <entry key="ICELANDIC" value="1" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="1" />
