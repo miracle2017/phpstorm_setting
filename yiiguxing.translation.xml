@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="PRIMARY" />
       <item value="recalc" />
       <item value="ARCHIVE" />
       <item value="FEDERATED" />
@@ -50,12 +51,11 @@
       <item value="prevents the check from scanning the rows to check for incorrect links" />
       <item value="blink" />
       <item value="Expiration" />
-      <item value="有效期" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="371" />
-        <entry key="ENGLISH" value="372" />
+        <entry key="CHINESE" value="372" />
+        <entry key="ENGLISH" value="373" />
         <entry key="ICELANDIC" value="1" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="1" />
