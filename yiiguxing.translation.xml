@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="recalc" />
+      <item value="ARCHIVE" />
+      <item value="FEDERATED" />
       <item value="RECALC" />
       <item value="STATS" />
       <item value="collation" />
@@ -48,14 +51,11 @@
       <item value="blink" />
       <item value="Expiration" />
       <item value="有效期" />
-      <item value="controls" />
-      <item value="controller" />
-      <item value="console" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="368" />
-        <entry key="ENGLISH" value="369" />
+        <entry key="CHINESE" value="371" />
+        <entry key="ENGLISH" value="372" />
         <entry key="ICELANDIC" value="1" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="1" />
