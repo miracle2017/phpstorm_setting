@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="RECALC" />
+      <item value="STATS" />
       <item value="collation" />
       <item value="DECIMAL" />
       <item value="COMPRESSED" />
@@ -49,13 +51,11 @@
       <item value="controls" />
       <item value="controller" />
       <item value="console" />
-      <item value="控制台" />
-      <item value="qualified" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="366" />
-        <entry key="ENGLISH" value="367" />
+        <entry key="CHINESE" value="368" />
+        <entry key="ENGLISH" value="369" />
         <entry key="ICELANDIC" value="1" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="1" />
