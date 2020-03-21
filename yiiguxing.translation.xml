@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="collation" />
+      <item value="DECIMAL" />
       <item value="COMPRESSED" />
       <item value="DIRECTORY" />
       <item value="暗号" />
@@ -49,13 +51,11 @@
       <item value="console" />
       <item value="控制台" />
       <item value="qualified" />
-      <item value="complain" />
-      <item value="darwin" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="363" />
-        <entry key="ENGLISH" value="364" />
+        <entry key="CHINESE" value="366" />
+        <entry key="ENGLISH" value="367" />
         <entry key="ICELANDIC" value="1" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="1" />
