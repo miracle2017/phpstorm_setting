@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="plode" />
+      <item value="implode" />
       <item value="Return current Unix timestamp with microseconds" />
       <item value="million" />
       <item value="毫秒" />
@@ -49,13 +51,11 @@
       <item value="Least" />
       <item value="transform" />
       <item value="transfer" />
-      <item value="file" />
-      <item value="OPTIMIZE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="403" />
-        <entry key="ENGLISH" value="403" />
+        <entry key="CHINESE" value="404" />
+        <entry key="ENGLISH" value="405" />
         <entry key="ICELANDIC" value="1" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="1" />
