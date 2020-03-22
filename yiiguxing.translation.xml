@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="profile" />
       <item value="multicast" />
       <item value="masquerade connection" />
       <item value="masquerade masquerade" />
@@ -50,12 +51,11 @@
       <item value="COMPACT" />
       <item value="REDUNDANT" />
       <item value="Index Statistics Collection" />
-      <item value="object" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="395" />
-        <entry key="ENGLISH" value="396" />
+        <entry key="CHINESE" value="396" />
+        <entry key="ENGLISH" value="397" />
         <entry key="ICELANDIC" value="1" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="1" />
