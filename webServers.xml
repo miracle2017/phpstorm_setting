@@ -65,14 +65,6 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="faf9c85b-97b8-47fa-9b9f-0b0694824329" name="112服务器" url="http://47.244.110.112">
-        <fileTransfer host="47.244.110.112" port="22" accessType="SFTP">
-          <advancedOptions>
-            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
-          </advancedOptions>
-          <option name="port" value="22" />
-        </fileTransfer>
-      </webServer>
       <webServer id="898184b0-d86b-4231-a86f-c3ffc270e31a" name="本地虚拟机" url="http://192.168.41.128">
         <fileTransfer host="192.168.41.128" port="22" accessType="SFTP">
           <advancedOptions>
