@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Return current Unix timestamp with microseconds" />
+      <item value="million" />
+      <item value="毫秒" />
+      <item value="microseconds" />
       <item value="we" />
       <item value="deficiency" />
       <item value="censor" />
@@ -47,15 +51,11 @@
       <item value="transfer" />
       <item value="file" />
       <item value="OPTIMIZE" />
-      <item value="equationlabel" />
-      <item value="bundled" />
-      <item value="stroke" />
-      <item value="a key stroke" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="398" />
-        <entry key="ENGLISH" value="399" />
+        <entry key="CHINESE" value="403" />
+        <entry key="ENGLISH" value="403" />
         <entry key="ICELANDIC" value="1" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="1" />
