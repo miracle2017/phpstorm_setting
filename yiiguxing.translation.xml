@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Stepping" />
+      <item value="socket" />
       <item value="ARCHIVE" />
       <item value="UNIXTIME" />
       <item value="county" />
@@ -49,13 +51,11 @@
       <item value="Partitioning" />
       <item value="column" />
       <item value="plugin" />
-      <item value="Statistics" />
-      <item value="PROCEDURE" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="389" />
-        <entry key="ENGLISH" value="390" />
+        <entry key="CHINESE" value="391" />
+        <entry key="ENGLISH" value="392" />
         <entry key="ICELANDIC" value="1" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="1" />
