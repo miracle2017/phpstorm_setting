@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="ARCHIVE" />
       <item value="UNIXTIME" />
       <item value="county" />
       <item value="code span" />
@@ -21,7 +22,6 @@
       <item value="Correlated" />
       <item value="PRIMARY" />
       <item value="recalc" />
-      <item value="ARCHIVE" />
       <item value="FEDERATED" />
       <item value="RECALC" />
       <item value="STATS" />
@@ -54,8 +54,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="388" />
-        <entry key="ENGLISH" value="389" />
+        <entry key="CHINESE" value="389" />
+        <entry key="ENGLISH" value="390" />
         <entry key="ICELANDIC" value="1" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="1" />
