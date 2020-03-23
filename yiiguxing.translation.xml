@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="umask" />
       <item value="directory name component of path" />
       <item value="component" />
       <item value="plode" />
@@ -50,12 +51,11 @@
       <item value="暗号" />
       <item value="alter" />
       <item value="Least Recently Used" />
-      <item value="Least" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="405" />
-        <entry key="ENGLISH" value="405" />
+        <entry key="ENGLISH" value="406" />
         <entry key="ICELANDIC" value="1" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="1" />
