@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="hierarchy" />
       <item value="umask" />
       <item value="directory name component of path" />
       <item value="component" />
@@ -50,11 +51,10 @@
       <item value="DIRECTORY" />
       <item value="暗号" />
       <item value="alter" />
-      <item value="Least Recently Used" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="405" />
+        <entry key="CHINESE" value="406" />
         <entry key="ENGLISH" value="406" />
         <entry key="ICELANDIC" value="1" />
         <entry key="BOSNIAN" value="1" />
