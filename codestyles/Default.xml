@@ -10,6 +10,7 @@
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
   <PHPCodeStyleSettings>
+    <option name="PHPDOC_THROWS_CALL_TREE_ANALYSIS_DEPTH" value="3" />
     <option name="VARIABLE_NAMING_STYLE" value="SNAKE_CASE" />
   </PHPCodeStyleSettings>
 </code_scheme>
