@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="advisory" />
       <item value="insincere" />
       <item value="stub" />
       <item value="denoting" />
@@ -50,11 +51,10 @@
       <item value="RECALC" />
       <item value="STATS" />
       <item value="collation" />
-      <item value="DECIMAL" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="408" />
+        <entry key="CHINESE" value="409" />
         <entry key="ENGLISH" value="409" />
         <entry key="ICELANDIC" value="1" />
         <entry key="BOSNIAN" value="1" />
