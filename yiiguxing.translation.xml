@@ -1,6 +1,10 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="symbol" />
+      <item value="splice" />
+      <item value="巧合" />
+      <item value="occasions" />
       <item value="glow like dat" />
       <item value="glow" />
       <item value="dat" />
@@ -47,15 +51,11 @@
       <item value="Implications" />
       <item value="SEMAPHORES" />
       <item value="SAVEPOINT" />
-      <item value="Correlated" />
-      <item value="PRIMARY" />
-      <item value="recalc" />
-      <item value="FEDERATED" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="410" />
-        <entry key="ENGLISH" value="411" />
+        <entry key="CHINESE" value="413" />
+        <entry key="ENGLISH" value="414" />
         <entry key="ICELANDIC" value="1" />
         <entry key="BOSNIAN" value="1" />
         <entry key="DANISH" value="1" />
