@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Kernel" />
       <item value="curly braces" />
       <item value="curly" />
       <item value="Illuminate" />
@@ -50,12 +51,11 @@
       <item value="code span" />
       <item value="span" />
       <item value="monospace" />
-      <item value="chessbord" />
     </histories>
     <option name="languageScores">
       <map>
         <entry key="CHINESE" value="422" />
-        <entry key="ENGLISH" value="422" />
+        <entry key="ENGLISH" value="423" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="BOSNIAN" value="1" />
