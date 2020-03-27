@@ -10,6 +10,8 @@
       <mapping pattern="config" type="PLAIN_TEXT" />
       <mapping pattern="lastlog" type="PLAIN_TEXT" />
       <mapping pattern="index" type="PLAIN_TEXT" />
+      <mapping pattern="面试中问到的问题.md" type="PLAIN_TEXT" />
+      <mapping pattern="面试中问到的问题" type="PLAIN_TEXT" />
       <mapping pattern="description" type="PLAIN_TEXT" />
       <mapping pattern="post-receive" type="PLAIN_TEXT" />
       <mapping pattern="sshd_config" type="PLAIN_TEXT" />
