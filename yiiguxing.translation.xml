@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="转为" />
+      <item value="转换" />
       <item value="blur" />
       <item value="syllabus" />
       <item value="Revival" />
@@ -49,13 +51,11 @@
       <item value="million" />
       <item value="毫秒" />
       <item value="microseconds" />
-      <item value="we" />
-      <item value="deficiency" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="436" />
-        <entry key="ENGLISH" value="437" />
+        <entry key="CHINESE" value="438" />
+        <entry key="ENGLISH" value="438" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="BOSNIAN" value="1" />
