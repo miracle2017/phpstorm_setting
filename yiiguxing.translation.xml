@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dawn" />
+      <item value="dusk" />
+      <item value="trashed" />
       <item value="spool" />
       <item value="convention" />
       <item value="invocation" />
@@ -48,14 +51,11 @@
       <item value="hierarchy" />
       <item value="umask" />
       <item value="directory name component of path" />
-      <item value="component" />
-      <item value="plode" />
-      <item value="implode" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="441" />
-        <entry key="ENGLISH" value="442" />
+        <entry key="CHINESE" value="444" />
+        <entry key="ENGLISH" value="445" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="BOSNIAN" value="1" />
