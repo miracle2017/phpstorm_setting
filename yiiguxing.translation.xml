@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Finds the path to the file" />
+      <item value="Authoritative" />
+      <item value="prepend" />
       <item value="Universal" />
       <item value="fallback" />
       <item value="canonicalized" />
@@ -48,14 +51,11 @@
       <item value="glow" />
       <item value="dat" />
       <item value="advisory" />
-      <item value="insincere" />
-      <item value="stub" />
-      <item value="denoting" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="448" />
-        <entry key="ENGLISH" value="449" />
+        <entry key="CHINESE" value="451" />
+        <entry key="ENGLISH" value="452" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="BOSNIAN" value="1" />
