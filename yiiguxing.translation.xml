@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="dusk" />
+      <item value="dust" />
+      <item value="灰尘" />
       <item value="Decimal" />
       <item value="十进制" />
       <item value="$concrete" />
@@ -19,7 +22,6 @@
       <item value="dist" />
       <item value="lead" />
       <item value="dawn" />
-      <item value="dusk" />
       <item value="trashed" />
       <item value="spool" />
       <item value="convention" />
@@ -49,13 +51,11 @@
       <item value="experimental" />
       <item value="Forge" />
       <item value="Laravel Forge" />
-      <item value="Seeder" />
-      <item value="pagation" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="458" />
-        <entry key="ENGLISH" value="459" />
+        <entry key="CHINESE" value="460" />
+        <entry key="ENGLISH" value="461" />
         <entry key="ESTONIAN" value="1" />
         <entry key="ICELANDIC" value="1" />
         <entry key="BOSNIAN" value="1" />
